@@ -1,7 +1,5 @@
 import 'package:budget_app/controller/auth/login.dart';
 import 'package:budget_app/views/auth/login.dart';
-import 'package:budget_app/views/dashboard.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
 class RegistrationScreen extends StatelessWidget {
